@@ -26,7 +26,7 @@ namespace DemoAWS.Controllers
                 Username = "Samir " + index,
                 Date = DateTime.Now.AddDays(index),
                 TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)] + " Babat Summary"
+                Summary = Summaries[Random.Shared.Next(Summaries.Length)] + " Babat Summary + CodeBuild Test"
             })
             .ToArray();
         }
