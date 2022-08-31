@@ -1,0 +1,11 @@
+C:\Users\msi-\source\repos\DemoAWS\site\DemoAWS.exe
+C:\Users\msi-\source\repos\DemoAWS\site\appsettings.Development.json
+C:\Users\msi-\source\repos\DemoAWS\site\appsettings.json
+C:\Users\msi-\source\repos\DemoAWS\site\DemoAWS.dll
+C:\Users\msi-\source\repos\DemoAWS\site\DemoAWS.deps.json
+C:\Users\msi-\source\repos\DemoAWS\site\DemoAWS.runtimeconfig.json
+C:\Users\msi-\source\repos\DemoAWS\site\DemoAWS.pdb
+C:\Users\msi-\source\repos\DemoAWS\site\Microsoft.OpenApi.dll
+C:\Users\msi-\source\repos\DemoAWS\site\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\msi-\source\repos\DemoAWS\site\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\msi-\source\repos\DemoAWS\site\Swashbuckle.AspNetCore.SwaggerUI.dll
